@@ -182,4 +182,6 @@ Loading latest weather...
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="75">
 </div>
 
+<!-- GitAds-Verify: GGADEPBXYHR57YOPKSAUP6PYQM7YQYNP -->
+
 <!-- CopyRight By Munna MasterMind-->

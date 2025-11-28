@@ -183,5 +183,7 @@ Loading latest weather...
 </div>
 
 <!-- GitAds-Verify: GGADEPBXYHR57YOPKSAUP6PYQM7YQYNP -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=munna-soft/munna-soft@github)](https://gitads.dev/v1/ad-track?source=munna-soft/munna-soft@github)
 
 <!-- CopyRight By Munna MasterMind-->

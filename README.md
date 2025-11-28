@@ -1,5 +1,7 @@
 <!-- Banner Images -->
-![Banner Images ](https://cdn.vectorstock.com/i/500p/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+<!-- ![Banner Images ](https://cdn.vectorstock.com/i/500p/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
+ -->
+![Banner Images ](/Coding-bg.png)
 
 <!-- Modern Stats Cards -->
 <div align="center">
@@ -20,7 +22,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="75">
 
 <!-- WEATHER-START -->
-<h3 align="center">🌤️ Today's Weather — Auto Update Timezone</h3>
 <div align="center">
 <div style="padding: 20px; border-radius: 16px; background: #0d1117; width: 85%; box-shadow: 0 0 20px rgba(0,255,150,0.1);">
 
@@ -31,6 +32,8 @@ Loading latest weather...
 </div>
 </div>
 <!-- WEATHER-END -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="75">
 
 <!-- Modern About Section -->
 <div align="center">
@@ -134,16 +137,6 @@ Loading latest weather...
       </td>
     </tr>
   </table>
-  
-  <!-- DevOps & Cloud -->
-  <h3>DevOps & Cloud</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,azure,cloudflare,aws,github,grafana&theme=dark" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- GitHub Analytics -->
@@ -178,8 +171,7 @@ Loading latest weather...
       <a href="https://www.youtube.com/@" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45" /></a>
       <a href="https://instagram.com/the.munna2" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="45" /></a>
       <a href="https://www.linkedin.com/in/the-munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="45" width="45" /></a>
-      <a href="https://github.com/Munna-Soft" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+      <a href="https://github.com/Munna-Soft" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="45" width="45" /></a>
     </div>
   </div>
 </div>

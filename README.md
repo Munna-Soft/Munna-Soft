@@ -1,65 +1,193 @@
+<!-- Banner Images -->
 ![Banner Images ](https://cdn.vectorstock.com/i/500p/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
-# Hi there, My name is Munna & welcome to my profile 👋
 
-Skills: PHP/Laravel/Vue.JS/TailWind/MySql/MariaDB/Apache/NGINX
+<!-- Modern Stats Cards -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=435&lines=AUTOMATION+BOT/TOOLS+DEVELOPER;RENTAL+PANEL+PROVIDER;SOCIAL+MEDIA+SERVICE+PROVIDER" />
+</div>
+<div align="center" style="margin: 20px 0">
+  <a href="https://github.com/munna-soft?tab=followers">
+    <img height="28" src="https://custom-icon-badges.demolab.com/github/followers/munna-soft?style=for-the-badge&color=00B2FF&labelColor=0D1117&logo=person-add&label=Followers&logoColor=00FF95"/>
+  </a>
+  &nbsp;
+    <a href="https://github.com/munna-soft?tab=repositories&sort=stargazers">
+    <img height="28" src="https://custom-icon-badges.demolab.com/github/stars/munna-soft?style=for-the-badge&color=00B2FF&labelColor=0D1117&logo=star&logoColor=00FF95"/>
+  </a>
+  &nbsp;
+  <img height="28" src="https://komarev.com/ghpvc/?username=munna-soft&label=Profile%20Views&color=00B2FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+</div>
 
-- 🔭 I’m currently working on "Rental SMM Panel" 
-- 👨‍💻 I’m currently learning PHP, Laravel, Vue.JS, Tailwind 
-- 📫 How to reach me: manikmunna10@gmail.com 
-- 😄 Pronouns: Social Media Influencer 
-- ⚡ Fun fact: Logical Speaker 
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="75">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=munna-soft&label=Profile%20views&color=0e75b6&style=flat" alt="munna-soft" /> </p>
+<!-- WEATHER-START -->
+<h3 align="center">🌤️ Today's Weather — Auto Update Timezone</h3>
+<div align="center">
+<div style="padding: 20px; border-radius: 16px; background: #0d1117; width: 85%; box-shadow: 0 0 20px rgba(0,255,150,0.1);">
 
-<hr>
+<!-- AUTO-WEATHER-DATA -->
+Loading latest weather...
+<!-- AUTO-WEATHER-DATA-END -->
 
-<h3 align="left">🚀 Languages and Tools I Use:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://mariadb.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> </p>
+</div>
+</div>
+<!-- WEATHER-END -->
 
-<hr>
+<!-- Modern About Section -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 25px; margin: 20px 0; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+    <h2 align="center" style="margin-bottom: 20px">
+      <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30"/>
+      About Me
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+    </h2>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="110px" style="margin-bottom: 15px">
+      <p align="center" style="margin: 5px 0">
+        <b>Munna MasterMind | Automation Developer & Rental SMM Panel Provider </i>
+      </p>
+      <div style="background: rgba(13,17,23,0.6); padding: 15px; border-radius: 10px; margin: 15px 0">
+        <code>I am an Automation Developer and SMM Panel System Specialist with expertise in building intelligent tools that solve real-world digital challenges. Over the years, I’ve focused on automation engineering, scraping, system optimization, and custom tool development.</code><br>
+        <code>My skill set includes Python, Selenium, Playwright, Tkinter/PyQt GUI apps, FastAPI integrations, and backend system development. I combine technical precision with a problem-solving mindset to deliver reliable, scalable, and high-performance automation solutions.</code>
+      </div>
+      <i style="color: #00FF95">『 Build Smarter, Automate Faster. Let's Create Something Extraordinary. 』</i>
+    </div>
+  </div>
+</div>
 
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+<!-- Language Proficiency -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; margin: 20px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
+    <h2 align="center">Language Proficiency</h2>
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Bengali-0D1117?style=for-the-badge&logo=translate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-English-0D1117?style=for-the-badge&logo=translate&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Hindi-0D1117?style=for-the-badge&logo=translate&logoColor=00FF95"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-<hr> -->
+<!-- Core Skills -->
+<div align="center">
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.9), rgba(0,178,255,0.1)); border-radius: 20px; padding: 25px; margin: 20px; border: 1px solid rgba(0,178,255,0.2); box-shadow: 0 0 20px rgba(0,178,255,0.1);">
+    <h2 align="center">Core Skills</h2>
+    <table align="center">
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Automation%20Developer-0D1117?style=for-the-badge&logo=code&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Rental%20Panel%20Provider-0D1117?style=for-the-badge&logo=server&logoColor=00FF95"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Social%20Media%20Bot%20Developer-0D1117?style=for-the-badge&logo=shield&logoColor=00FF95"/>
+        </td>
+        <td align="center">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Social%20Media%20Influencer-0D1117?style=for-the-badge&logo=search&logoColor=00FF95"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://facebook.com/The.Munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@The.Munna2" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://instagram.com/the_munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/the-munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-</p>
+<!-- Technical Arsenal -->
+<div align="center" style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 30px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+  <!-- Programming Languages -->
+  <div style="background: rgba(13,17,23,0.6); padding: 15px; border-radius: 10px; margin: 10px 0">
+    <h3 style="color: #00FF95; margin-bottom: 15px">Programming Languages</h3>
+  </div>
+  <!-- Backend Development -->
+  <h3>Backend Development</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,php,laravel&theme=dark" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vue&theme=dark" />
+      </td>
+    </tr>
+  </table>
 
-<hr> 
+  <!-- Database Technologies -->
+  <h3>Database Technologies</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+      </td>
+    </tr>
+  </table>
+  
+  <!-- DevOps & Cloud -->
+  <h3>DevOps & Cloud</h3>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,azure,cloudflare,aws,github,grafana&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Soft&langs_count=10)
+<!-- GitHub Analytics -->
+<div align="center">
+  <h2 style="margin: 30px 0 20px 0; color: #00B2FF">GitHub Analytics</h2>
+  
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 30px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+      <img height="180em" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api?username=Munna-Soft&show_icons=true&count_private=true&hide_border=true&title_color=00FF95&icon_color=00B2FF&text_color=FFFFFF&bg_color=0D1117&ring_color=00B2FF&show_owner=true" alt="Github Stats" />
+      <img height="180em" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Soft&layout=compact&hide_border=true&title_color=00FF95&text_color=FFFFFF&bg_color=0D1117 " alt="Github Language"/>
+    </div>
+  </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Munna-Soft&show_icons=true&count_private=true)  
+<!-- Trophy Card -->
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 30px; margin: 20px 0; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+    <img style="border-radius: 10px" src="https://github-profile-trophy.vercel.app/?username=Munna-Soft&theme=algolia"  alt="Github Trophy"/>
+  </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Munna-Soft)](https://github.com/ryo-ma/github-profile-trophy) 
+<!-- Activity Graph -->
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 30px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+    <img style="border-radius: 10px" src="https://github-readme-activity-graph.vercel.app/graph?username=Munna-Soft&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00B2FF&line=00FF95&point=00B2FF" />
+  </div>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Munna-Soft) 
+<!-- Connect With Me -->
+<div align="center">
+  <h2 style="margin: 30px 0 20px 0; color: #00B2FF">Let's Connect & Collaborate</h2>
+  
+  <div style="background: linear-gradient(135deg, rgba(13,17,23,0.95), rgba(0,178,255,0.05)); border-radius: 16px; padding: 25px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
+    <div style="background: rgba(13,17,23,0.6); padding: 15px; border-radius: 10px; display: flex; justify-content: center; gap: 10px;">
+      <a href="https://facebook.com/The.Munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="45" width="45" /></a>
+      <a href="https://www.youtube.com/@" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45" /></a>
+      <a href="https://instagram.com/the.munna2" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="45" /></a>
+      <a href="https://www.linkedin.com/in/the-munna" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="45" width="45" /></a>
+      <a href="https://github.com/Munna-Soft" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+    </div>
+  </div>
+</div>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Munna-Soft/contributions?format=svg&private=true) 
+<!-- Footer -->
+<div align="center" style="margin-top: 30px">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=egg&height=200&color=gradient&text=Munna%20MasterMind&reversal=true&section=footer&animation=blinking&fontSize=50&fontAlignY=60" alt="Footer Name Blinking"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="75">
+</div>
 
-
-<!-- CopyRight By Munna -->
+<!-- CopyRight By Munna MasterMind-->

@@ -28,17 +28,17 @@
 <!-- AUTO-WEATHER-DATA -->
 
 <img src="//cdn.weatherapi.com/weather/64x64/night/113.png" width="60"><br>
-**🌤️ Dhaka Weather Update**  — _2025-12-29 18:39_  
+**🌤️ Dhaka Weather Update**  — _2025-12-30 00:27_  
 
-**🌡️ Temp:** 21.7°C  |  **🤗 Feels:** 21.7°C  
-**💧 Humidity:** 41%  |  **💨 Wind:** 11.9 kph  
+**🌡️ Temp:** 17.8°C  |  **🤗 Feels:** 17.9°C  
+**💧 Humidity:** 50%  |  **💨 Wind:** 10.1 kph  
 **🛰️ Condition:** Clear
 
-**🌅 Sunrise:** 06:40 AM  •  **🌇 Sunset:** 05:21 PM  
+**🌅 Sunrise:** 06:40 AM  •  **🌇 Sunset:** 05:22 PM  
 **🌙 Moon Phase:** Waxing Gibbous
 
 **🕒 Next 6 Hours**  
-18:00 → 21.7°C ☀️  Clear <br>19:00 → 20.7°C ☀️  Clear <br>20:00 → 20.3°C ☀️  Clear <br>21:00 → 19.9°C ☀️  Clear <br>22:00 → 19.6°C ☀️  Clear <br>23:00 → 19.0°C ☀️  Clear 
+00:00 → 18.4°C ☀️  Clear <br>01:00 → 17.8°C ☀️  Clear <br>02:00 → 17.3°C ☀️  Clear <br>03:00 → 16.8°C ☀️  Clear <br>04:00 → 16.3°C ☀️  Clear <br>05:00 → 16.0°C ☀️  Clear 
 
 ---
 *Last updated automatically every 6 hours.*

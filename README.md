@@ -33,18 +33,18 @@
 
 <!-- AUTO-WEATHER-DATA -->
 
-<img src="//cdn.weatherapi.com/weather/64x64/night/176.png" width="60"><br>
-**🌤️ Dhaka Weather Update**  — _2026-06-13 19:52_  
+<img src="//cdn.weatherapi.com/weather/64x64/night/113.png" width="60"><br>
+**🌤️ Dhaka Weather Update**  — _2026-06-14 01:20_  
 
-**🌡️ Temp:** 28.5°C  |  **🤗 Feels:** 32.5°C  
-**💧 Humidity:** 75%  |  **💨 Wind:** 16.2 kph  
-**🛰️ Condition:** Patchy rain nearby
+**🌡️ Temp:** 27.4°C  |  **🤗 Feels:** 31.3°C  
+**💧 Humidity:** 86%  |  **💨 Wind:** 15.5 kph  
+**🛰️ Condition:** Clear
 
-**🌅 Sunrise:** 05:10 AM  •  **🌇 Sunset:** 06:45 PM  
+**🌅 Sunrise:** 05:11 AM  •  **🌇 Sunset:** 06:46 PM  
 **🌙 Moon Phase:** New Moon
 
 **🕒 Next 6 Hours**  
-19:00 → 28.5°C 🌧️  Patchy rain nearby<br>20:00 → 27.7°C 🌧️  Patchy rain nearby<br>21:00 → 27.3°C ⛅  Cloudy<br>22:00 → 27.2°C ⛅  Partly Cloudy<br>23:00 → 26.9°C ⛅  Cloudy
+01:00 → 27.4°C ☀️  Clear<br>02:00 → 27.3°C 🌧️  Patchy rain nearby<br>03:00 → 27.3°C 🌧️  Patchy rain nearby<br>04:00 → 27.0°C 🌧️  Patchy rain nearby<br>05:00 → 27.0°C 🌧️  Patchy rain nearby<br>06:00 → 27.2°C 🌧️  Patchy rain nearby
 
 ---
 *Last updated automatically every 6 hours.*

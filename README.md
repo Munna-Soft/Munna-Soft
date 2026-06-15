@@ -189,6 +189,9 @@
   <img src="https://yourinsights.vercel.app/api/insight?username=Munna-Soft&theme=neo_green&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!-- Connect With Me -->
 <div align="center">
   <h2 style="margin: 30px 0 20px 0; color: #00B2FF">Let's Connect & Collaborate</h2>
@@ -214,4 +217,4 @@
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=munna-soft/munna-soft@github)](https://gitads.dev/v1/ad-track?source=munna-soft/munna-soft@github)
 
-<!-- CopyRight By Munna MasterMind-->
+<!-- Copyright by Munna MasterMind-->

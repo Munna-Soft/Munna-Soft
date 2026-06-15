@@ -33,21 +33,7 @@
 
 <!-- AUTO-WEATHER-DATA -->
 
-<img src="//cdn.weatherapi.com/weather/64x64/day/116.png" width="60"><br>
-**🌤️ Dhaka Weather Update**  — _2026-06-15 09:56_  
 
-**🌡️ Temp:** 32.0°C  |  **🤗 Feels:** 37.0°C  
-**💧 Humidity:** 60%  |  **💨 Wind:** 18.0 kph  
-**🛰️ Condition:** Partly Cloudy
-
-**🌅 Sunrise:** 05:11 AM  •  **🌇 Sunset:** 06:46 PM  
-**🌙 Moon Phase:** New Moon
-
-**🕒 Next 6 Hours**  
-09:00 → 32.0°C ⛅  Partly Cloudy<br>10:00 → 33.1°C ☀️  Sunny<br>11:00 → 34.1°C ⛅  Cloudy<br>12:00 → 34.9°C ⛅  Cloudy<br>13:00 → 35.1°C ⛅  Partly Cloudy<br>14:00 → 34.7°C ⛅  Partly Cloudy
-
----
-*Last updated automatically every 6 hours.*
 
 <!-- AUTO-WEATHER-DATA-END -->
 
@@ -195,23 +181,12 @@
 
 <!-- GitHub Analytics -->
 <div align="center">
-  <h1 style="margin: 30px 0 20px 0; color: #00B2FF"><img align="left" alt="stats" width="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" />GitHub Stats</h1>
+  <h1 style="margin: 30px 0 20px 0; color: #00B2FF"><img align="left" alt="stats" width="50" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" />MasterMind Github Stats</h1>
   <div style="background: linear-gradient(135deg, rgba(2,5,15,0.95), rgba(55,175,222,0.03)); border-radius: 16px; padding: 30px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-      <img height="180em" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api?username=Munna-Soft&show_icons=true&count_private=true&hide_border=true&title_color=00FF95&icon_color=00B2FF&text_color=FFFFFF&bg_color=0D1117&ring_color=00B2FF&show_owner=true" alt="Github Stats" />
-      <img height="180em" style="border-radius: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-Soft&layout=compact&hide_border=true&title_color=00FF95&text_color=FFFFFF&bg_color=0D1117 " alt="Github Language"/>
-    </div>
   </div>
 
-<!-- Trophy Card -->
-  <div style="background: linear-gradient(135deg, rgba(2,5,15,0.95), rgba(55,175,222,0.03)); border-radius: 16px; padding: 30px; margin: 20px 0; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
-    <img style="border-radius: 10px" src="https://github-profile-trophy.vercel.app/?username=Munna-Soft&theme=algolia"  alt="Github Trophy"/>
-  </div>
-
-<!-- Activity Graph -->
-  <div style="background: linear-gradient(135deg, rgba(2,5,15,0.95), rgba(55,175,222,0.03)); border-radius: 16px; padding: 30px; border: 1px solid rgba(0,178,255,0.1); box-shadow: 0 4px 20px rgba(0,178,255,0.05);">
-    <img style="border-radius: 10px" src="https://github-readme-activity-graph.vercel.app/graph?username=Munna-Soft&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00B2FF&line=00FF95&point=00B2FF" />
-  </div>
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Munna-Soft&theme=neo_green&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
 
 <!-- Connect With Me -->
